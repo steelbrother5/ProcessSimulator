@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="14.0">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1252A916-B463-4FBB-A146-33A181CCB6BE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProcessSimulator.Module</RootNamespace>
+    <AssemblyName>ProcessSimulator.Module</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'EasyTest|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\EasyTest\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;EASYTEST</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v22.2">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Drawing.v22.2">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Objects.v22.2">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.v22.2">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Xpo.v22.2">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Images.v22.2">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Persistent.Base.v22.2">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Persistent.BaseImpl.Xpo.v22.2">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v22.2.Core">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Xpo.v22.2">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="mscorlib">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessMethods\BusinessDaysClass.cs" />
+    <Compile Include="BusinessMethods\GetClosingDateClass.cs" />
+    <Compile Include="BusinessMethods\InventoryCompensationClass.cs" />
+    <Compile Include="BusinessMethods\IQuotable.cs" />
+    <Compile Include="BusinessObjects\Enums.cs" />
+    <Compile Include="Controllers\ViewController1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controllers\ViewController1.Designer.cs">
+      <DependentUpon>ViewController1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseUpdate\Updater.cs" />
+    <Compile Include="Models\AssetSpeciesModel.cs" />
+    <Compile Include="Models\AssetTypeModel.cs" />
+    <Compile Include="Models\BankAccountType.cs" />
+    <Compile Include="Models\BankingConcept.cs" />
+    <Compile Include="Models\Clients.cs" />
+    <Compile Include="Models\CompanyBaseObject.cs" />
+    <Compile Include="Models\ConciliationRecord.cs" />
+    <Compile Include="Models\Countries.cs" />
+    <Compile Include="Models\Currency.cs" />
+    <Compile Include="Models\CurrencyPack.cs" />
+    <Compile Include="Models\CurrencyVehicle.cs" />
+    <Compile Include="Models\DepositAccount.cs" />
+    <Compile Include="Models\DepositAccountLoading.cs" />
+    <Compile Include="Models\DepositAccountLoadingMaster.cs" />
+    <Compile Include="Models\DepositAccountMovements.cs" />
+    <Compile Include="Models\DepositAccountsControl.cs" />
+    <Compile Include="Models\DepositAccountStatement.cs" />
+    <Compile Include="Models\DepositAccountStatementMovement.cs" />
+    <Compile Include="Models\DepositAccStatus.cs" />
+    <Compile Include="Models\DepositBank.cs" />
+    <Compile Include="Models\EnterpriseBaseObject.cs" />
+    <Compile Include="Models\ExchangeRate.cs" />
+    <Compile Include="Models\ExternalInvestmentUnit.cs" />
+    <Compile Include="Models\ExternalInvestmentUnitClosingMaster.cs" />
+    <Compile Include="Models\ExternalInvestmentUnitControl.cs" />
+    <Compile Include="Models\ExternalInvestmentUnitDepositAccountsControl.cs" />
+    <Compile Include="Models\ExternalInvestmentUnitDepositAccountsLoading.cs" />
+    <Compile Include="Models\ExternalInvestmentUnitDepositAccountsLoadingMaster.cs" />
+    <Compile Include="Models\ExternalInvestmentUnitDepositAccountsLoadingUndo.cs" />
+    <Compile Include="Models\ExternalInvestmentUnitItem.cs" />
+    <Compile Include="Models\ForeignCurrencyTrade.cs" />
+    <Compile Include="Models\ForeignExchangeOperation.cs" />
+    <Compile Include="Models\InitialClosingDate.cs" />
+    <Compile Include="Models\InternalInvestmentUnit.cs" />
+    <Compile Include="Models\InventoryOwnershipType.cs" />
+    <Compile Include="Models\ItemSign.cs" />
+    <Compile Include="Models\MovementKind.cs" />
+    <Compile Include="Models\Persons.cs" />
+    <Compile Include="Models\Portfolio.cs" />
+    <Compile Include="Models\PortfolioClosing.cs" />
+    <Compile Include="Models\PortfolioClosingMaster.cs" />
+    <Compile Include="Models\PortfolioCompensation.cs" />
+    <Compile Include="Models\PortfolioCompensationUndo.cs" />
+    <Compile Include="Models\PortfolioControl.cs" />
+    <Compile Include="Models\PortfolioGroup.cs" />
+    <Compile Include="Models\PortfolioInventoryCompensation.cs" />
+    <Compile Include="Models\PortfolioInventoryItem.cs" />
+    <Compile Include="Models\PortfolioItem.cs" />
+    <Compile Include="Models\PortfolioItemType.cs" />
+    <Compile Include="Models\PortfolioNovelty.cs" />
+    <Compile Include="Models\PortfolioNoveltyConcept.cs" />
+    <Compile Include="Models\PortfolioNoveltyEntity.cs" />
+    <Compile Include="Models\PortfolioNoveltyType.cs" />
+    <Compile Include="Models\PortfolioOpening.cs" />
+    <Compile Include="Models\Position.cs" />
+    <Compile Include="Models\ProfitandLossesReportParameters.cs" />
+    <Compile Include="Models\QuotaApprovalStatus.cs" />
+    <Compile Include="Models\QuotaValidationStatus.cs" />
+    <Compile Include="Models\StatementConciliationSummary.cs" />
+    <Compile Include="Models\StatementStandardConcept.cs" />
+    <Compile Include="Models\TradeAttribute.cs" />
+    <Compile Include="Models\Trader.cs" />
+    <Compile Include="Module.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Module.Designer.cs">
+      <DependentUpon>Module.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\RegularExpressions.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Model.DesignedDiffs.xafml" />
+    <EmbeddedResource Include="Properties\licenses.licx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BusinessObjects\ReadMe.txt" />
+    <None Include="Controllers\ReadMe.txt" />
+    <None Include="DatabaseUpdate\ReadMe.txt" />
+    <None Include="Images\ReadMe.txt" />
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Welcome.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\ClassLibrary\ClassLibrary.fsproj">
+      <Project>{e7af10d8-0f49-4abf-9cf7-13f1d761b523}</Project>
+      <Name>ClassLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

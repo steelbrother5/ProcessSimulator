@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>ClassLibrary</name></assembly>
+<members>
+<member name="M:UtilitiesFunctions.DateWithCurrentTimeOfDay(System.DateTime)">
+<summary>
+Recibe una fecha y devuelve la misma fecha pero con la hora completa del día
+actualizada a la hora completa en que se invoca esta función
+</summary>
+</member>
+<member name="M:UtilitiesFunctions.RelativeDate(System.DateTime,System.Int32,System.Int32)">
+<summary>
+mode: si modalDeltaDays = 30 &amp; dia es el último del mes, 1 indica usar 30 como último día del mes
+                                                    0 indica usar el último día del mes
+      si modalDeltaDays = 0 , mode es deltaDays
+      si modalDeltaDays &lt;&gt; 0 &amp; &lt;&gt; 30,   
+</summary>
+</member>
+<member name="M:UtilitiesFunctions.Iota(System.Int32)">
+<summary>
+Iota de APL
+</summary>
+</member>
+<member name="M:PortfolioClosingFunctions.CalculateControlPanelPosition(System.Collections.Generic.List{PeriodClosingCommonClassesC.RecordCurrencyTrade},System.Boolean)">
+<summary>
+Se llama desde f#
+Devuelve un OutRecordControlPanel a partir de una lista de RecordCurrencyTrade.
+El parámetro isInPortfolio no se usa para nada por ahora (se dejó porque por algún motivo
+se usa en el llamado desde f#).
+</summary>
+</member>
+<member name="M:PortfolioClosingFunctions.ControlPanelValues(System.Collections.Generic.List{PeriodClosingCommonClassesC.RecordCurrencyTrade},System.Boolean)">
+<summary>
+Devuelve un OutRecordControlPanel a partir de una lista de RecordCurrencyTrade que no puede estar
+vacía.
+El parámetro isInPortfolio no se usa para nada por ahora (se dejó porque por algún motivo
+se usa en el llamado desde f#).
+</summary>
+</member>
+<member name="M:PortfolioClosingFunctions.CalculateTransactionsTotalsAndAverages(PeriodClosingCommonClassesC.OutRecordInventoryCompensatedItem[],System.Decimal)">
+<summary>
+Calcula el total de unidades negociadas, el valor total en moneda local y el valor promedio por unidad.
+El signo indica (1) si el cálculo se hace sobre inventarios positivos (incluyen compras), o (-1) si
+se hace sobre inventarios negativos (incluyen ventas).
+</summary>
+</member>
+<member name="M:PortfolioClosingFunctions.ItemCompensations(System.Collections.Generic.List{PeriodClosingCommonClassesC.RecordInventory})">
+<summary>
+Este método es invocado desde C# para la compensación intraday
+Recibe: inventories ( seq&lt;RecordInventory), que son los inventarios positivos y negativos que hay que 
+        compensar. Es decir, asignar inventarios positivos a inventarios negativos bajo FIFO, y
+        reducir los inventarios positivos en la medida en que se asignan a inventarios negativos
+Devuelve una lista de RecordInventoryCompensatedItem, donde cada elemento contiene:
+     - número del item que se compensa
+     - signo de ítem que se compensa (1 compra, -1 venta)
+     - array de compensaciones del ítem
+</summary>
+</member>
+<member name="M:PortfolioClosingFunctions.CreateOutRecordInventoryCompensatedItem(System.Int32,System.Decimal,System.Decimal,System.Decimal,System.Collections.Generic.IEnumerable{System.Tuple{PeriodClosingCommonClassesC.OutRecordInventoryItemCompensation,System.Decimal}})">
+<summary>
+crea instancia de OutRecordInventoryCopensatedItem
+</summary>
+</member>
+<member name="M:PortfolioClosingFunctions.CompensateInventory(System.Collections.Generic.List{PeriodClosingCommonClassesC.RecordInventory})">
+<summary>
+Este método es invocado desde c# para la compensación del cierre
+Recibe: inventories ( seq&lt;RecordInventory), que son los inventarios positivos y negativos que hay que 
+        compensar. Es decir, asignar inventarios positivos a inventarios negativos bajo FIFO, y
+        reducir los inventarios positivos en la medida en que se asignan a inventarios negativos
+Devuelve una lista de OutRecordInventoryCompensations, con las compensaciones
+</summary>
+</member>
+<member name="M:PortfolioClosingFunctions.CompensateAndSegregateInventory(System.Collections.Generic.List{PeriodClosingCommonClassesC.RecordInventory})">
+<summary>
+Recibe: inventories ( seq&lt;RecordInventory), que son los inventarios positivos y negativos que hay que 
+        compensar. Es decir, asignar inventarios positivos a inventarios negativos bajo FIFO, y
+        reducir los inventarios positivos en la medida en que se asignan a inventarios negativos
+Devuelve dos listas: - OutRecordInventoryCompensations, con las compensaciones
+                     - OutRecordNonCompensatedInventories, con lo no compensado
+</summary>
+</member>
+<member name="M:PortfolioClosingFunctions.GenerateUncompensatedInMovement(System.Collections.Generic.List{PeriodClosingCommonClassesC.RecordInventory},System.Decimal[0:])">
+<summary>
+devuelve una lista con los movimientos de entrada que no compensan movimientos
+de salida porque ya no hay mpás movimietos de salida para compensar.
+Cada posición de la lista contiene:
+     - número de secuencia del movimiento
+     - valor remanente (que no se usó para compensar movimientos de salida
+     - indicador de transacción completa (que no se utilizó parcialmente)
+</summary>
+</member>
+<member name="M:PortfolioClosingFunctions.AddUncompensatedOutMovement(System.Int32,System.Decimal,System.Decimal[0:],System.Collections.Generic.List{PeriodClosingCommonClassesC.OutRecordInventoryCompensation},System.Decimal,System.Collections.Generic.List{PeriodClosingCommonClassesC.OutRecordInventoryNonCompensatedItem})">
+<summary>
+adiciona a snonCompensatedList los movimientos de salida que no se compensan porque ya quedan
+movimientos positivos para compensarlos
+</summary>
+</member>
+<member name="M:PortfolioClosingFunctions.CompensateOutMovement(System.Int32,System.Decimal,System.Decimal[0:],System.Collections.Generic.List{PeriodClosingCommonClassesC.OutRecordInventoryCompensation},System.Decimal,System.Collections.Generic.List{PeriodClosingCommonClassesC.OutRecordInventoryNonCompensatedItem})">
+<summary>
+Recibe: - outMovementSequenceNumber: numero de secuencia del movimiento de inventario de salida que hay que compensar
+        - outMovement: valor del inventario que hay que compensar
+        - remainingInventory: es un array de 1 fila por cada inventario positivo que aun este disponible para compensar
+                              y las siguientes 3 columnas:
+                                 - inventario positivo acumulado
+                                 - inventario positivo
+                                 - secuencia original del inventario positivo
+        - inventoryCompesations: lista de compensaciones realizadas en iteraciones anteriores (llamados anteriores a este 
+                                 método. Esta información no se usa para nada, pero las compensaciones que resulten de la ejecución
+                                 de este método se adicionan a la lista 
+        - outMovementUnitPrice: precio unitario del movimiento de salida (de la venta)  
+</summary>
+</member>
+<member name="M:PortfolioClosingFunctions.createInitialRemainingInventory(System.Collections.Generic.IEnumerable{System.Tuple{System.Int32,System.Decimal,System.Decimal}})">
+<summary>
+Recibe los inventarios positivos
+Retorna un Array de 1 fila por cada inventario positivo y las siguientes 4 columnas:
+     - inventario positivo acumulado
+     - inventario positivo
+     - secuencia original del inventario positivo
+     - precio por unidad del inventario positivo
+</summary>
+</member>
+</members>
+</doc>

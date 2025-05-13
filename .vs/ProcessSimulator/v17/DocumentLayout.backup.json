@@ -1,0 +1,1504 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8AC1E0-C264-425F-B0AC-E55A7431E06F}|ProcessSimulator.Win\\ProcessSimulator.Win.csproj|c:\\users\\nicolas.moreno\\source\\repos\\dxapplication1\\processsimulator.win\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7C8AC1E0-C264-425F-B0AC-E55A7431E06F}|ProcessSimulator.Win\\ProcessSimulator.Win.csproj|solutionrelative:processsimulator.win\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE249C6-04F5-405F-B5D7-EA9D14FD1E41}|ProcessSimulator.Web\\ProcessSimulator.Web.csproj|c:\\users\\nicolas.moreno\\source\\repos\\dxapplication1\\processsimulator.web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ACE249C6-04F5-405F-B5D7-EA9D14FD1E41}|ProcessSimulator.Web\\ProcessSimulator.Web.csproj|solutionrelative:processsimulator.web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\businessmethods\\inventorycompensationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\businessmethods\\inventorycompensationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|c:\\users\\nicolas.moreno\\source\\repos\\dxapplication1\\processsimulator.module\\controllers\\viewcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\controllers\\viewcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8AC1E0-C264-425F-B0AC-E55A7431E06F}|ProcessSimulator.Win\\ProcessSimulator.Win.csproj|c:\\users\\nicolas.moreno\\source\\repos\\dxapplication1\\processsimulator.win\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8AC1E0-C264-425F-B0AC-E55A7431E06F}|ProcessSimulator.Win\\ProcessSimulator.Win.csproj|solutionrelative:processsimulator.win\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AF10D8-0F49-4ABF-9CF7-13F1D761B523}|..\\ClassLibrary\\ClassLibrary.fsproj|c:\\users\\nicolas.moreno\\source\\repos\\classlibrary\\portfolioclosingfunctions.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AF10D8-0F49-4ABF-9CF7-13F1D761B523}|..\\ClassLibrary\\ClassLibrary.fsproj|c:\\users\\nicolas.moreno\\source\\repos\\classlibrary\\periodclosingcommonclasses.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AF10D8-0F49-4ABF-9CF7-13F1D761B523}|..\\ClassLibrary\\ClassLibrary.fsproj|c:\\users\\nicolas.moreno\\source\\repos\\classlibrary\\classlibrary.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8AC1E0-C264-425F-B0AC-E55A7431E06F}|ProcessSimulator.Win\\ProcessSimulator.Win.csproj|c:\\users\\nicolas.moreno\\source\\repos\\dxapplication1\\processsimulator.win\\winapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8AC1E0-C264-425F-B0AC-E55A7431E06F}|ProcessSimulator.Win\\ProcessSimulator.Win.csproj|solutionrelative:processsimulator.win\\winapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\portfolioclosingmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\portfolioclosingmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|c:\\users\\nicolas.moreno\\source\\repos\\dxapplication1\\processsimulator.module\\controllers\\viewcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\controllers\\viewcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62338BEF-2811-4E1A-AE65-1349843E925B}|ProcessSimulator.Module.Web\\ProcessSimulator.Module.Web.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module.web\\webmodule.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62338BEF-2811-4E1A-AE65-1349843E925B}|ProcessSimulator.Module.Web\\ProcessSimulator.Module.Web.csproj|solutionrelative:processsimulator.module.web\\webmodule.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8AC1E0-C264-425F-B0AC-E55A7431E06F}|ProcessSimulator.Win\\ProcessSimulator.Win.csproj|c:\\users\\nicolas.moreno\\source\\repos\\dxapplication1\\processsimulator.win\\winapplication.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8AC1E0-C264-425F-B0AC-E55A7431E06F}|ProcessSimulator.Win\\ProcessSimulator.Win.csproj|solutionrelative:processsimulator.win\\winapplication.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE249C6-04F5-405F-B5D7-EA9D14FD1E41}|ProcessSimulator.Web\\ProcessSimulator.Web.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.web\\webapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE249C6-04F5-405F-B5D7-EA9D14FD1E41}|ProcessSimulator.Web\\ProcessSimulator.Web.csproj|solutionrelative:processsimulator.web\\webapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A468A5-3634-42B2-B8E0-A67ABAD4F197}|ProcessSimulator.Module.Win\\ProcessSimulator.Module.Win.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module.win\\winmodule.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A468A5-3634-42B2-B8E0-A67ABAD4F197}|ProcessSimulator.Module.Win\\ProcessSimulator.Module.Win.csproj|solutionrelative:processsimulator.module.win\\winmodule.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A468A5-3634-42B2-B8E0-A67ABAD4F197}|ProcessSimulator.Module.Win\\ProcessSimulator.Module.Win.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module.win\\winmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70A468A5-3634-42B2-B8E0-A67ABAD4F197}|ProcessSimulator.Module.Win\\ProcessSimulator.Module.Win.csproj|solutionrelative:processsimulator.module.win\\winmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\module.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\module.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AF10D8-0F49-4ABF-9CF7-13F1D761B523}|..\\ClassLibrary\\ClassLibrary.fsproj|c:\\users\\nicolas.moreno\\source\\repos\\classlibrary\\utilitiesfunctionsc.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\databaseupdate\\updater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\databaseupdate\\updater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\foreigncurrencytrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\foreigncurrencytrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\portfolionovelty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\portfolionovelty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\businessmethods\\businessdaysclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\businessmethods\\businessdaysclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\trader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\trader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\bankingconcept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\bankingconcept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\currencypack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\currencypack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\portfolionoveltytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\portfolionoveltytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\persons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\persons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\inventoryownershiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\inventoryownershiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\internalinvestmentunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\internalinvestmentunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\initialclosingdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\initialclosingdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\foreignexchangeoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\foreignexchangeoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\externalinvestmentunititem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\externalinvestmentunititem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\externalinvestmentunitdepositaccountsloadingundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\externalinvestmentunitdepositaccountsloadingundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\externalinvestmentunitdepositaccountsloadingmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\externalinvestmentunitdepositaccountsloadingmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\externalinvestmentunitdepositaccountsloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\externalinvestmentunitdepositaccountsloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\externalinvestmentunitdepositaccountscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\externalinvestmentunitdepositaccountscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\externalinvestmentunitcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\externalinvestmentunitcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\externalinvestmentunitclosingmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\externalinvestmentunitclosingmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\externalinvestmentunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\externalinvestmentunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\enterprisebaseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\enterprisebaseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\depositbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\depositbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\depositaccstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\depositaccstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\depositaccountstatementmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\depositaccountstatementmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\depositaccountstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\depositaccountstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\depositaccountscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\depositaccountscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\depositaccountmovements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\depositaccountmovements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\depositaccountloadingmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\depositaccountloadingmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\depositaccountloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\depositaccountloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\depositaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\depositaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\currencyvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\currencyvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\countries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\countries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\conciliationrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\conciliationrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\companybaseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\companybaseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\resources\\regularexpressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\resources\\regularexpressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\bankaccounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\bankaccounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\assettypemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\assettypemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\assetspeciesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\assetspeciesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\businessmethods\\iquotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\businessmethods\\iquotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\businessmethods\\getclosingdateclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\businessmethods\\getclosingdateclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\businessobjects\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\businessobjects\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\tradeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\tradeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\statementstandardconcept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\statementstandardconcept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\statementconciliationsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\statementconciliationsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\quotavalidationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\quotavalidationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\quotaapprovalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\quotaapprovalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\profitandlossesreportparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\profitandlossesreportparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\portfolioopening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\portfolioopening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\portfolionoveltyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\portfolionoveltyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\portfolionoveltyconcept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\portfolionoveltyconcept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\portfolioitemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\portfolioitemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\portfolioitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\portfolioitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\portfolioinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\portfolioinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\portfolioinventorycompensation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\portfolioinventorycompensation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\portfoliogroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\portfoliogroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\portfoliocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\portfoliocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\portfoliocompensationundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\portfoliocompensationundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\portfoliocompensation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\portfoliocompensation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\portfolioclosing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\portfolioclosing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\movementkind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\movementkind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\models\\itemsign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\models\\itemsign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\processsimulator.module\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1252A916-B463-4FBB-A146-33A181CCB6BE}|ProcessSimulator.Module\\ProcessSimulator.Module.csproj|solutionrelative:processsimulator.module\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewController1.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Controllers\\ViewController1.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Controllers\\ViewController1.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Controllers\\ViewController1.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Controllers\\ViewController1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwC4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:13:49.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryCompensationClass.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\BusinessMethods\\InventoryCompensationClass.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\BusinessMethods\\InventoryCompensationClass.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\BusinessMethods\\InventoryCompensationClass.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\BusinessMethods\\InventoryCompensationClass.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAiwMEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:25:44.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Win\\App.config",
+              "RelativeDocumentMoniker": "ProcessSimulator.Win\\App.config",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Win\\App.config",
+              "RelativeToolTip": "ProcessSimulator.Win\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-13T15:23:48.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Web\\Web.config",
+              "RelativeDocumentMoniker": "ProcessSimulator.Web\\Web.config",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Web\\Web.config",
+              "RelativeToolTip": "ProcessSimulator.Web\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-13T17:27:18.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Win\\Program.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Win\\Program.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Win\\Program.cs",
+              "RelativeToolTip": "ProcessSimulator.Win\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:31:09.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClassLibrary",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\ClassLibrary\\ClassLibrary.fsproj",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\ClassLibrary.fsproj",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\ClassLibrary\\ClassLibrary.fsproj",
+              "RelativeToolTip": "..\\ClassLibrary\\ClassLibrary.fsproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001351|",
+              "WhenOpened": "2025-05-13T18:04:46.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PeriodClosingCommonClasses.fs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\ClassLibrary\\PeriodClosingCommonClasses.fs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\PeriodClosingCommonClasses.fs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\ClassLibrary\\PeriodClosingCommonClasses.fs",
+              "RelativeToolTip": "..\\ClassLibrary\\PeriodClosingCommonClasses.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-13T14:53:35.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PortfolioClosingFunctions.fs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\ClassLibrary\\PortfolioClosingFunctions.fs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\PortfolioClosingFunctions.fs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\ClassLibrary\\PortfolioClosingFunctions.fs",
+              "RelativeToolTip": "..\\ClassLibrary\\PortfolioClosingFunctions.fs",
+              "ViewState": "AgIAABsBAAAAAAAAAAAawDIBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-13T14:53:25.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\Portfolio.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\Portfolio.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\Portfolio.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:52:52.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WinApplication.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Win\\WinApplication.Designer.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Win\\WinApplication.Designer.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Win\\WinApplication.Designer.cs",
+              "RelativeToolTip": "ProcessSimulator.Win\\WinApplication.Designer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAtwDYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:10:59.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebModule.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module.Web\\WebModule.Designer.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module.Web\\WebModule.Designer.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module.Web\\WebModule.Designer.cs",
+              "RelativeToolTip": "ProcessSimulator.Module.Web\\WebModule.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:03:00.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WinApplication.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Win\\WinApplication.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Win\\WinApplication.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Win\\WinApplication.cs",
+              "RelativeToolTip": "ProcessSimulator.Win\\WinApplication.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAnwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:27:28.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewController1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Controllers\\ViewController1.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Controllers\\ViewController1.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Controllers\\ViewController1.cs [Design]",
+              "RelativeToolTip": "ProcessSimulator.Module\\Controllers\\ViewController1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:13:47.493Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PortfolioClosingMaster.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioClosingMaster.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\PortfolioClosingMaster.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioClosingMaster.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\PortfolioClosingMaster.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:56:05.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WinModule.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module.Win\\WinModule.Designer.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module.Win\\WinModule.Designer.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module.Win\\WinModule.Designer.cs",
+              "RelativeToolTip": "ProcessSimulator.Module.Win\\WinModule.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAnwBwAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:03:44.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Module.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Module.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Module.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Module.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Module.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:03:59.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WinModule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module.Win\\WinModule.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module.Win\\WinModule.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module.Win\\WinModule.cs [Design]",
+              "RelativeToolTip": "ProcessSimulator.Module.Win\\WinModule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:05:57.079Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WebApplication.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Web\\WebApplication.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Web\\WebApplication.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Web\\WebApplication.cs",
+              "RelativeToolTip": "ProcessSimulator.Web\\WebApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:10:55.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Module.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Module.Designer.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Module.Designer.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Module.Designer.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Module.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:57:40.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UtilitiesFunctionsC.fs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\ClassLibrary\\UtilitiesFunctionsC.fs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\UtilitiesFunctionsC.fs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\ClassLibrary\\UtilitiesFunctionsC.fs",
+              "RelativeToolTip": "..\\ClassLibrary\\UtilitiesFunctionsC.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-13T14:54:41.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Updater.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\DatabaseUpdate\\Updater.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\DatabaseUpdate\\Updater.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\DatabaseUpdate\\Updater.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\DatabaseUpdate\\Updater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:42:10.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BankingConcept.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\BankingConcept.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\BankingConcept.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\BankingConcept.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\BankingConcept.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:42:27.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Trader.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\Trader.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\Trader.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\Trader.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\Trader.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwB4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:00:24.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BusinessDaysClass.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\BusinessMethods\\BusinessDaysClass.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\BusinessMethods\\BusinessDaysClass.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\BusinessMethods\\BusinessDaysClass.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\BusinessMethods\\BusinessDaysClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:25:27.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PortfolioNovelty.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioNovelty.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\PortfolioNovelty.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioNovelty.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\PortfolioNovelty.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwFYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:57:59.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ForeignCurrencyTrade.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ForeignCurrencyTrade.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\ForeignCurrencyTrade.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ForeignCurrencyTrade.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\ForeignCurrencyTrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:00:41.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CurrencyPack.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\CurrencyPack.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\CurrencyPack.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\CurrencyPack.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\CurrencyPack.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:46:49.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PortfolioNoveltyType.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioNoveltyType.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\PortfolioNoveltyType.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioNoveltyType.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\PortfolioNoveltyType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:58:37.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Persons.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\Persons.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\Persons.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\Persons.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\Persons.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwD4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:52:36.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InventoryOwnershipType.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\InventoryOwnershipType.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\InventoryOwnershipType.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\InventoryOwnershipType.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\InventoryOwnershipType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:52:05.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "InternalInvestmentUnit.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\InternalInvestmentUnit.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\InternalInvestmentUnit.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\InternalInvestmentUnit.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\InternalInvestmentUnit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:51:54.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "InitialClosingDate.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\InitialClosingDate.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\InitialClosingDate.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\InitialClosingDate.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\InitialClosingDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:51:43.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ForeignExchangeOperation.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ForeignExchangeOperation.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\ForeignExchangeOperation.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ForeignExchangeOperation.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\ForeignExchangeOperation.cs",
+              "ViewState": "AgIAAJcLAAAAAAAAAAAUwMULAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:51:32.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ExternalInvestmentUnitItem.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ExternalInvestmentUnitItem.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\ExternalInvestmentUnitItem.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ExternalInvestmentUnitItem.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\ExternalInvestmentUnitItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:51:16.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ExternalInvestmentUnitDepositAccountsLoadingUndo.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ExternalInvestmentUnitDepositAccountsLoadingUndo.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\ExternalInvestmentUnitDepositAccountsLoadingUndo.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ExternalInvestmentUnitDepositAccountsLoadingUndo.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\ExternalInvestmentUnitDepositAccountsLoadingUndo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:51:06.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ExternalInvestmentUnitDepositAccountsLoadingMaster.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ExternalInvestmentUnitDepositAccountsLoadingMaster.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\ExternalInvestmentUnitDepositAccountsLoadingMaster.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ExternalInvestmentUnitDepositAccountsLoadingMaster.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\ExternalInvestmentUnitDepositAccountsLoadingMaster.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwHUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:50:55.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ExternalInvestmentUnitDepositAccountsLoading.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ExternalInvestmentUnitDepositAccountsLoading.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\ExternalInvestmentUnitDepositAccountsLoading.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ExternalInvestmentUnitDepositAccountsLoading.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\ExternalInvestmentUnitDepositAccountsLoading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:50:40.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ExternalInvestmentUnitDepositAccountsControl.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ExternalInvestmentUnitDepositAccountsControl.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\ExternalInvestmentUnitDepositAccountsControl.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ExternalInvestmentUnitDepositAccountsControl.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\ExternalInvestmentUnitDepositAccountsControl.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:50:26.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ExternalInvestmentUnitControl.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ExternalInvestmentUnitControl.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\ExternalInvestmentUnitControl.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ExternalInvestmentUnitControl.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\ExternalInvestmentUnitControl.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwDcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:50:13.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ExternalInvestmentUnitClosingMaster.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ExternalInvestmentUnitClosingMaster.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\ExternalInvestmentUnitClosingMaster.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ExternalInvestmentUnitClosingMaster.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\ExternalInvestmentUnitClosingMaster.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAUwLIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:50:00.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ExternalInvestmentUnit.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ExternalInvestmentUnit.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\ExternalInvestmentUnit.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ExternalInvestmentUnit.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\ExternalInvestmentUnit.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAUwIgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:49:47.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ExchangeRate.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ExchangeRate.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\ExchangeRate.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ExchangeRate.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\ExchangeRate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:49:24.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EnterpriseBaseObject.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\EnterpriseBaseObject.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\EnterpriseBaseObject.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\EnterpriseBaseObject.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\EnterpriseBaseObject.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:00:33.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DepositBank.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\DepositBank.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\DepositBank.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\DepositBank.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\DepositBank.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwFoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:49:05.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DepositAccStatus.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\DepositAccStatus.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\DepositAccStatus.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\DepositAccStatus.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\DepositAccStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:48:56.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DepositAccountStatementMovement.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\DepositAccountStatementMovement.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\DepositAccountStatementMovement.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\DepositAccountStatementMovement.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\DepositAccountStatementMovement.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAUwHkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:48:44.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DepositAccountStatement.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\DepositAccountStatement.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\DepositAccountStatement.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\DepositAccountStatement.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\DepositAccountStatement.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAAPgBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:48:32.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DepositAccountsControl.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\DepositAccountsControl.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\DepositAccountsControl.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\DepositAccountsControl.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\DepositAccountsControl.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:48:15.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DepositAccountMovements.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\DepositAccountMovements.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\DepositAccountMovements.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\DepositAccountMovements.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\DepositAccountMovements.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswFoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:47:58.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DepositAccountLoadingMaster.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\DepositAccountLoadingMaster.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\DepositAccountLoadingMaster.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\DepositAccountLoadingMaster.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\DepositAccountLoadingMaster.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAHsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:47:46.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DepositAccountLoading.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\DepositAccountLoading.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\DepositAccountLoading.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\DepositAccountLoading.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\DepositAccountLoading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:47:25.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DepositAccount.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\DepositAccount.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\DepositAccount.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\DepositAccount.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\DepositAccount.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:47:14.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CurrencyVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\CurrencyVehicle.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\CurrencyVehicle.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\CurrencyVehicle.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\CurrencyVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:47:03.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\Currency.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\Currency.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\Currency.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\Currency.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:46:38.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Countries.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\Countries.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\Countries.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\Countries.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\Countries.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwDkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:46:26.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ConciliationRecord.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ConciliationRecord.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\ConciliationRecord.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ConciliationRecord.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\ConciliationRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:46:12.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CompanyBaseObject.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\CompanyBaseObject.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\CompanyBaseObject.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\CompanyBaseObject.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\CompanyBaseObject.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:46:00.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Clients.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\Clients.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\Clients.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\Clients.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\Clients.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:45:44.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RegularExpressions.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Resources\\RegularExpressions.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Resources\\RegularExpressions.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Resources\\RegularExpressions.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Resources\\RegularExpressions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:29:52.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "BankAccountType.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\BankAccountType.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\BankAccountType.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\BankAccountType.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\BankAccountType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:42:49.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AssetTypeModel.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\AssetTypeModel.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\AssetTypeModel.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\AssetTypeModel.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\AssetTypeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:41:45.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AssetSpeciesModel.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\AssetSpeciesModel.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\AssetSpeciesModel.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\AssetSpeciesModel.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\AssetSpeciesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:41:25.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IQuotable.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\BusinessMethods\\IQuotable.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\BusinessMethods\\IQuotable.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\BusinessMethods\\IQuotable.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\BusinessMethods\\IQuotable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:25:55.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "GetClosingDateClass.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\BusinessMethods\\GetClosingDateClass.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\BusinessMethods\\GetClosingDateClass.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\BusinessMethods\\GetClosingDateClass.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\BusinessMethods\\GetClosingDateClass.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:25:35.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\BusinessObjects\\Enums.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\BusinessObjects\\Enums.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\BusinessObjects\\Enums.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\BusinessObjects\\Enums.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:26:07.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "QuotaApprovalStatus.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\QuotaApprovalStatus.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\QuotaApprovalStatus.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\QuotaApprovalStatus.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\QuotaApprovalStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:59:21.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "QuotaValidationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\QuotaValidationStatus.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\QuotaValidationStatus.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\QuotaValidationStatus.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\QuotaValidationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:59:32.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "StatementConciliationSummary.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\StatementConciliationSummary.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\StatementConciliationSummary.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\StatementConciliationSummary.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\StatementConciliationSummary.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAA0wHsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:59:44.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "StatementStandardConcept.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\StatementStandardConcept.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\StatementStandardConcept.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\StatementStandardConcept.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\StatementStandardConcept.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:59:56.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "TradeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\TradeAttribute.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\TradeAttribute.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\TradeAttribute.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\TradeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:00:12.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ProfitandLossesReportParameters.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ProfitandLossesReportParameters.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\ProfitandLossesReportParameters.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ProfitandLossesReportParameters.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\ProfitandLossesReportParameters.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:59:09.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\Position.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:58:57.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "PortfolioOpening.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioOpening.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\PortfolioOpening.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioOpening.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\PortfolioOpening.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:58:47.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "PortfolioNoveltyEntity.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioNoveltyEntity.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\PortfolioNoveltyEntity.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioNoveltyEntity.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\PortfolioNoveltyEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:58:25.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "PortfolioNoveltyConcept.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioNoveltyConcept.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\PortfolioNoveltyConcept.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioNoveltyConcept.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\PortfolioNoveltyConcept.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:58:12.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "PortfolioItemType.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioItemType.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\PortfolioItemType.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioItemType.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\PortfolioItemType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:57:46.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "PortfolioItem.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioItem.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\PortfolioItem.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioItem.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\PortfolioItem.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwEYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:57:28.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "PortfolioInventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioInventoryItem.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\PortfolioInventoryItem.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioInventoryItem.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\PortfolioInventoryItem.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAUwMcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:57:15.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "PortfolioInventoryCompensation.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioInventoryCompensation.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\PortfolioInventoryCompensation.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioInventoryCompensation.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\PortfolioInventoryCompensation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:57:02.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "PortfolioGroup.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioGroup.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\PortfolioGroup.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioGroup.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\PortfolioGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:56:51.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "PortfolioControl.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioControl.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\PortfolioControl.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioControl.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\PortfolioControl.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwB4AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:56:39.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "PortfolioCompensationUndo.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioCompensationUndo.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\PortfolioCompensationUndo.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioCompensationUndo.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\PortfolioCompensationUndo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:56:29.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "PortfolioCompensation.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioCompensation.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\PortfolioCompensation.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioCompensation.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\PortfolioCompensation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:56:17.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "PortfolioClosing.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioClosing.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\PortfolioClosing.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\PortfolioClosing.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\PortfolioClosing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:55:53.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "MovementKind.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\MovementKind.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\MovementKind.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\MovementKind.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\MovementKind.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:52:27.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ItemSign.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ItemSign.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Models\\ItemSign.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Models\\ItemSign.cs",
+              "RelativeToolTip": "ProcessSimulator.Module\\Models\\ItemSign.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:52:16.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Module.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Module.cs",
+              "RelativeDocumentMoniker": "ProcessSimulator.Module\\Module.cs",
+              "ToolTip": "C:\\Users\\nicolas.moreno\\source\\repos\\DXApplication1\\ProcessSimulator.Module\\Module.cs [Design]",
+              "RelativeToolTip": "ProcessSimulator.Module\\Module.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:15:05.1Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
